@@ -9,11 +9,12 @@
 ## Urgency
 > As time is very limited with the risk of hypothermia in a short period of time in extremely cold seas, and due to limited lifeboats, the selection decision of who to rescue must be made quickly and correctly.
 
-## Metrics
-> Precision
+## Metrics <space>
+Precision
 
 ## Recommendation
-> The 'Ladies and Children First' scheme worked — survival rates were significantly higher for women and children. However, to enhance precision and avoid misclassification in life-or-death decisions, a tiered, data-driven rescue plan is crucial.
+
+The 'Ladies and Children First' scheme worked — survival rates were significantly higher for women and children. However, to enhance precision and avoid misclassification in life-or-death decisions, a tiered, data-driven rescue plan is crucial.
 > Priority Tiers: Children (Toodler - Teenager) with their parents > Female > Doctor > Seniors with a companion
 > Provide special evacuation routes and assistive devices for those in need including the senior
 > Prioritize medical and expert personnel to treat surviving passangers. There should be at least 1 doctor/medic on the lifeboat
